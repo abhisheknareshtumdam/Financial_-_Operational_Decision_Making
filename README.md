@@ -36,10 +36,7 @@ The dataset includes:
 - **Retirement Planning**: Estimated monthly retirement income over a 20-year period.
 - **Patent Valuation**: Determined the present value of expected income, aiding in pricing guidance.
 
----
-
 This project showcases Excel’s potential in financial modeling, resource optimization, and strategic decision-making. 
 
 ### **Overall Report**  
-
 Excel report [here](https://github.com/abhisheknareshtumdam/Financial_-_Operational_Decision_Making/blob/main/Resources/Financial%20and%20Operational%20Decision-Making%20with%20Excel.xlsx)
