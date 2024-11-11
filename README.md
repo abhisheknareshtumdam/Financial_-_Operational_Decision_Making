@@ -38,4 +38,8 @@ The dataset includes:
 
 ---
 
-This project showcases Excel’s potential in financial modeling, resource optimization, and strategic decision-making.
+This project showcases Excel’s potential in financial modeling, resource optimization, and strategic decision-making. 
+
+### **Overall Report**  
+
+Excel report [here](https://github.com/abhisheknareshtumdam/Financial_-_Operational_Decision_Making/blob/main/Resources/Financial%20and%20Operational%20Decision-Making%20with%20Excel.xlsx)
